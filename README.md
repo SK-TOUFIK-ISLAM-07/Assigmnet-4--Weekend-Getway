@@ -1,7 +1,7 @@
 # Weekend Getaway Ranker
 
-**Student Name:** Santanu Mondal  
-**Student Code:** [BWU/BTD/22/067]  
+**Student Name:** Sk Toufik Islam  
+**Student Code:** [BWU/BTD/22/071]  
 ---
 
 ## Project Overview
